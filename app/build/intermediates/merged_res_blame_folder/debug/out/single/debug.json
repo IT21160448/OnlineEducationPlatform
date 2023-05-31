@@ -1,590 +1,178 @@
 [
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_ameeshaakalanka.jpeg.flat",
-        "source": "com.example.quize.app-main-35:/drawable/ameeshaakalanka.jpeg"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/top_btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_search_view_bg.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/search_view_bg.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/top_btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_5.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/font_montserrat.xml.flat",
-        "source": "com.example.quize.app-main-35:/font/montserrat.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/font_montserrat_bold.xml.flat",
-        "source": "com.example.quize.app-main-35:/font/montserrat_bold.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_getquize.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/getquize.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_activity_admin_dashboard.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/activity_admin_dashboard.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/circle_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/circle_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/font_montserrat_semibold.xml.flat",
-        "source": "com.example.quize.app-main-35:/font/montserrat_semibold.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/top_btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_activity_add_quiz_part2.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/activity_add_quiz_part2.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/wallet.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/top_btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/back_profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_5.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-anydpi-v33/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_baseline_navigate_next_24.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/baseline_navigate_next_24.xml"
-    },
-    {
         "merged": "com.example.quize.app-merged_res-33:/layout_activity_edit_quiz_part1.xml.flat",
         "source": "com.example.quize.app-main-35:/layout/activity_edit_quiz_part1.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_add_quize_part1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_add_quize_part1.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/banner_circle.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\drawable_baseline_navigate_before_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\drawable\\baseline_navigate_before_24.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/banner_circle.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_item_card.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\item_card.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/profile.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_5.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\menu_menu_scrolling.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\menu\\menu_scrolling.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_input.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/input.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_ameesha3.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\ameesha3.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/wallet.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_viewquize.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\viewquize.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/background.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\font_montserrat_semibold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\font\\montserrat_semibold.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/banner_circle.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/layout_viewquize.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/viewquize.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/top_btn_4.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/wallet.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\font_montserrat_thin.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\font\\montserrat_thin.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_baseline_navigate_before_24.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/baseline_navigate_before_24.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_edit_quiz_part1.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_edit_quiz_part1.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_bottom_banner_background.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/bottom_banner_background.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_ameesha.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\ameesha.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/circle_2.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/menu_menu_scrolling.xml.flat",
-        "source": "com.example.quize.app-main-35:/menu/menu_scrolling.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/background.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/top_btn_4.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/profile.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\font_montserrat_alternates_bold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\font\\montserrat_alternates_bold.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/xml_backup_rules.xml.flat",
-        "source": "com.example.quize.app-main-35:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_get_all_quiz.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_get_all_quiz.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/layout_card_view_exam.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/card_view_exam.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\font\\montserrat.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/back_profile.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\drawable\\custom_input.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/bell.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_getquize.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\getquize.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_3.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\drawable_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\drawable\\baseline_navigate_next_24.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_1.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_add_quiz_part2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_add_quiz_part2.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/wallet.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\menu_menu_quiz.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\menu\\menu_quiz.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_6.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_2.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_edit_quize_part2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_edit_quize_part2.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_6.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_button_shapes.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/button_shapes.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_main_button_background.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/main_button_background.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_add_quizepart2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_add_quizepart2.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/top_btn_1.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/layout_activity_edit_quize_part2.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/activity_edit_quize_part2.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_email.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\email.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/top_btn_1.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_card_view_exam.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\card_view_exam.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/font_montserrat_thin.xml.flat",
-        "source": "com.example.quize.app-main-35:/font/montserrat_thin.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_ameesha2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\ameesha2.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_3.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\main.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\layout_activity_feching_exam_details.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\layout\\activity_feching_exam_details.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_4.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/top_btn_4.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/top_btn_3.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\font_montserrat_bold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\font\\montserrat_bold.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_6.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_custom_input.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/custom_input.xml"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_6.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/bell.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/font_montserrat_alternates_bold.xml.flat",
-        "source": "com.example.quize.app-main-35:/font/montserrat_alternates_bold.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/circle_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/banner_circle.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_banner_top_background.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/banner_top_background.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/background.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/back_profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_activity_add_quize_part1.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/activity_add_quize_part1.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/banner_circle.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.quize.app-main-35:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/back_profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/top_btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/circle_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_5.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/background.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_circle_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/circle_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_top_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/top_btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_top_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/top_btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/background.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_banner_circle.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/banner_circle.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/wallet.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/bell.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/bell.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_1.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_1.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_5.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.quize.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_background.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/background.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/bell.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_5.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_5.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/menu_menu_quiz.xml.flat",
-        "source": "com.example.quize.app-main-35:/menu/menu_quiz.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/top_btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/btn_6.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-mdpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-mdpi/top_btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_top_btn_4.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/top_btn_4.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_btn_2.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/btn_2.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_bell.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/bell.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_activity_feching_exam_details.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/activity_feching_exam_details.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_btn_6.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/btn_6.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable_shape.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable/shape.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-hdpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-hdpi/back_profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/layout_main.xml.flat",
-        "source": "com.example.quize.app-main-35:/layout/main.xml"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxxhdpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxxhdpi/top_btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xxhdpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xxhdpi/top_btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-ldpi_top_btn_3.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-ldpi/top_btn_3.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.quize.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_back_profile.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/back_profile.png"
-    },
-    {
-        "merged": "com.example.quize.app-merged_res-33:/drawable-xhdpi_wallet.png.flat",
-        "source": "com.example.quize.app-main-35:/drawable-xhdpi/wallet.png"
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.5\\com.example.quize.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     }
 ]

@@ -21,16 +21,13 @@
         <item>@font/montserrat_semibold</item>
         <item>@font/montserrat_thin</item>
     </array>
+    <color name="Light_blue">#4E5BE6</color>
+    <color name="Light_gray">#151920</color>
+    <color name="Light_red">#E64E4E</color>
     <color name="black">#FF000000</color>
-    <color name="blue">#4E5BE6</color>
-    <color name="dark_blue">#12163C</color>
-    <color name="gray">#676767</color>
-    <color name="light_blue">#737FFF</color>
-    <color name="light_blue1">#30399C</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
-    <color name="red">#E64E4E</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>

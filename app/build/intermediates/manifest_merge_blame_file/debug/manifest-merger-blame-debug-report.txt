@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml
+8-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml
+9-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -32,68 +32,68 @@
 21-->[androidx.core:core:1.10.0] C:\Users\User\.gradle\caches\transforms-3\f9eac4505b6170e4e9344daa87b85fcb\transformed\core-1.10.0\AndroidManifest.xml:26:22-94
 22
 23    <application
-23-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:7:5-38:19
+23-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:7:5-38:19
 24        android:allowBackup="true"
-24-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:8:9-35
+24-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:8:9-35
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.10.0] C:\Users\User\.gradle\caches\transforms-3\f9eac4505b6170e4e9344daa87b85fcb\transformed\core-1.10.0\AndroidManifest.xml:28:18-86
 26        android:dataExtractionRules="@xml/data_extraction_rules"
-26-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:9:9-65
+26-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:9:9-65
 27        android:debuggable="true"
 28        android:extractNativeLibs="false"
 29        android:fullBackupContent="@xml/backup_rules"
-29-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:10:9-54
+29-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:10:9-54
 30        android:icon="@mipmap/ic_launcher"
-30-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:11:9-43
+30-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:11:9-43
 31        android:label="@string/app_name"
-31-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:12:9-41
+31-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:12:9-41
 32        android:supportsRtl="true"
-32-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:13:9-35
+32-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:13:9-35
 33        android:testOnly="true"
 34        android:theme="@style/Theme.Quize" >
-34-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:14:9-43
+34-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:14:9-43
 35        <activity
-35-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:16:9-18:40
+35-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:16:9-18:40
 36            android:name="com.example.quize.activities.addQuizepart2"
-36-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:17:13-53
+36-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:17:13-53
 37            android:exported="false" />
-37-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:18:13-37
+37-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:18:13-37
 38        <activity
-38-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:19:9-21:40
+38-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:19:9-21:40
 39            android:name="com.example.quize.activities.addQuizPart1"
-39-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:20:13-52
+39-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:20:13-52
 40            android:exported="false" />
-40-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:21:13-37
+40-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:21:13-37
 41        <activity
-41-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:22:9-24:40
+41-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:22:9-24:40
 42            android:name="com.example.quize.activities.FechingExam"
-42-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:23:13-51
+42-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:23:13-51
 43            android:exported="false" />
-43-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:24:13-37
+43-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:24:13-37
 44        <activity
-44-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:25:9-33:20
+44-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:25:9-33:20
 45            android:name="com.example.quize.MainActivity"
-45-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:26:13-41
+45-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:26:13-41
 46            android:exported="true" >
-46-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:27:13-36
+46-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:27:13-36
 47            <intent-filter>
-47-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:28:13-32:29
+47-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:28:13-32:29
 48                <action android:name="android.intent.action.MAIN" />
-48-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:29:17-69
-48-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:29:25-66
+48-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:29:17-69
+48-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:29:25-66
 49
 50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:31:17-77
-50-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:31:27-74
+50-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:31:17-77
+50-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:31:27-74
 51            </intent-filter>
 52        </activity>
 53
 54        <meta-data
-54-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:35:9-37:57
+54-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:35:9-37:57
 55            android:name="preloaded_fonts"
-55-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:36:13-43
+55-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:36:13-43
 56            android:resource="@array/preloaded_fonts" />
-56-->C:\src\KnowledgeHub\app\src\main\AndroidManifest.xml:37:13-54
+56-->C:\src\OnlineEducationPlatform\app\src\main\AndroidManifest.xml:37:13-54
 57
 58        <service
 58-->[com.google.firebase:firebase-database-ktx:20.2.1] C:\Users\User\.gradle\caches\transforms-3\63cf88df450abb34855ba4a804e2c03f\transformed\firebase-database-ktx-20.2.1\AndroidManifest.xml:11:9-17:19

@@ -4,7 +4,7 @@
             "outputFile": "com.example.quize.app-mergeDebugResources-31:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\src\\KnowledgeHub\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\src\\OnlineEducationPlatform\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1,2",
                         "startColumns": "4,4",
