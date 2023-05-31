@@ -21,7 +21,7 @@ class addQuizPart1 : AppCompatActivity() {
     private lateinit var etGarde:EditText
     private lateinit var etExamType:EditText
     private lateinit var etExamDate:EditText
-   // private lateinit var etNoOfQuestion:EditText
+    private lateinit var etNoOfQuestion:EditText
 
     private lateinit var  dbRef:DatabaseReference
 
