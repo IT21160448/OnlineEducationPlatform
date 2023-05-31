@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".activities.addQuizPart1">
 
-    <!-- <Button
+    <!-- <!-- <Button -->
         android:id="@+id/btnUpdate"
         android:layout_width="378dp"
         android:layout_height="61dp"
