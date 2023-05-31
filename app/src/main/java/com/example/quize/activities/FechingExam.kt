@@ -23,7 +23,7 @@ class FechingExam : AppCompatActivity() {
     private lateinit var  tvLoadingDat :TextView
     private lateinit var examList: ArrayList<ExamModel>
 
-    //override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_feching_exam_details)
 
@@ -41,7 +41,7 @@ class FechingExam : AppCompatActivity() {
 
         examList= arrayListOf<ExamModel>()
 
-        val searchView = findViewById<SearchView>(R.id.SearchView)
+        //val searchView = findViewById<SearchView>(R.id.SearchView)
         searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
             override fun onQueryTextSubmit(query: String?): Boolean {
                 return false
