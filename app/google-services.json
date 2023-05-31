@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926073672803",
+    "firebase_url": "https://booklibraby-default-rtdb.firebaseio.com",
+    "project_id": "booklibraby",
+    "storage_bucket": "booklibraby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926073672803:android:011eab5166451464a85456",
+        "android_client_info": {
+          "package_name": "com.example.book_library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926073672803-b1afdv1bq6nv3if935mcgs66bfjhc484.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3AYaqLfljulisDECKFZvj8k2gxESsNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926073672803-b1afdv1bq6nv3if935mcgs66bfjhc484.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
