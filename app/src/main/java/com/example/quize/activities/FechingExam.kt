@@ -41,7 +41,7 @@ class FechingExam : AppCompatActivity() {
 
         examList= arrayListOf<ExamModel>()
 
-        val searchView = findViewById<SearchView>(R.id.SearchView)
+        //val searchView = findViewById<SearchView>(R.id.SearchView)
         searchView.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
             override fun onQueryTextSubmit(query: String?): Boolean {
                 return false
