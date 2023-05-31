@@ -1,6 +1,6 @@
 package com.example.book_library.adapters
 
-//import android.graphics.BitmapFactory
+import android.graphics.BitmapFactory
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.EditText
