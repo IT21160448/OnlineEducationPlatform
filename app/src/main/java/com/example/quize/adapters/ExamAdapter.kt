@@ -9,7 +9,7 @@ import com.example.quize.R
 import com.example.quize.models.ExamModel
 
 
-class ExamAdapter (private val examList: ArrayList<ExamModel>) :
+//class ExamAdapter (private val examList: ArrayList<ExamModel>) :
     RecyclerView.Adapter<ExamAdapter.ViewHolder>() {
 
     private lateinit var mListener:onItemClikListener
