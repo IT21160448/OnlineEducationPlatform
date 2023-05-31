@@ -29,7 +29,7 @@ class addQuizPart1 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_quize_part1)
 
-         initialize your EditText fields
+        // initialize your EditText fields
         etExamName = findViewById(R.id.editTextExamName)
         etSubjectName = findViewById(R.id.editTextSubjectName)
         etGarde = findViewById(R.id.editTextGrade)
@@ -42,7 +42,7 @@ class addQuizPart1 : AppCompatActivity() {
             // create a Calendar instance and set it to the current date
             val cal = Calendar.getInstance()
 
-            // create a DatePickerDialog and set the current date as the default date
+             create a DatePickerDialog and set the current date as the default date
             val datePicker = DatePickerDialog(this, { _, year, month, dayOfMonth ->
                 // set the selected date in the etExamDate EditText field
                 etExamDate.setText("$dayOfMonth/${month + 1}/$year")
