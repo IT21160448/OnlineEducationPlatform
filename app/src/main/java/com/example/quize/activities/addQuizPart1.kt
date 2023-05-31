@@ -29,7 +29,7 @@ class addQuizPart1 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_quize_part1)
 
-         initialize your EditText fields
+        // initialize your EditText fields
         etExamName = findViewById(R.id.editTextExamName)
         etSubjectName = findViewById(R.id.editTextSubjectName)
         etGarde = findViewById(R.id.editTextGrade)
