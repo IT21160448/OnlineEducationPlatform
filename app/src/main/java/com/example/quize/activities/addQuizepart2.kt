@@ -46,7 +46,7 @@ class addQuizepart2 : AppCompatActivity() {
         }
 
 
-        //val button5 = findViewById<Button>(R.id.button5)
+        val button5 = findViewById<Button>(R.id.button5)
         button5.setOnClickListener{
             deleteRecode(
                 intent.getStringExtra("ExamID").toString()
