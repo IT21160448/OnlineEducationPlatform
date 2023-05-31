@@ -17,7 +17,7 @@
             android:name=".activities.addQuizepart2"
             android:exported="false" />
         <activity
-            android:name=".activities.addQuizPart1"
+            android:name=".activities.//addQuizPart1"
             android:exported="false" />
         <activity
             android:name=".activities.FechingExam"
