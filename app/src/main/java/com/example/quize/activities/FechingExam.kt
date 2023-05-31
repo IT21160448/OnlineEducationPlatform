@@ -19,7 +19,7 @@ import kotlin.collections.ArrayList
 
 class FechingExam : AppCompatActivity() {
 
-    private lateinit var examRecucleView :RecyclerView
+    //private lateinit var examRecucleView :RecyclerView
     private lateinit var  tvLoadingDat :TextView
     private lateinit var examList: ArrayList<ExamModel>
 
