@@ -23,7 +23,7 @@ class FechingExam : AppCompatActivity() {
     private lateinit var  tvLoadingDat :TextView
     private lateinit var examList: ArrayList<ExamModel>
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    //override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_feching_exam_details)
 
