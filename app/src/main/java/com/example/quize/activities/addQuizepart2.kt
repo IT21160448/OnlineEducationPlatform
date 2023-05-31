@@ -17,9 +17,9 @@ import java.util.*
 class addQuizepart2 : AppCompatActivity() {
 
 
-   // private lateinit var tvExamID :TextView
-    //private lateinit var tvExamName :TextView
-    //private lateinit var tvExamDate :TextView
+    private lateinit var tvExamID :TextView
+    private lateinit var tvExamName :TextView
+    private lateinit var tvExamDate :TextView
     private lateinit var tvExamType :TextView
     private lateinit var tvGarde :TextView
     private lateinit var tvNoOfQuestion :TextView
