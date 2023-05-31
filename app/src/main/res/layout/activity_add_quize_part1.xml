@@ -20,7 +20,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextNoOfQuestion" /> 
 
-    <!-- <TextView
+    <TextView
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
         android:textColor="#24201F"
         app:layout_constraintBottom_toTopOf="@+id/editTextSubjectName"
         app:layout_constraintStart_toStartOf="@+id/editTextSubjectName"
-        app:layout_constraintTop_toBottomOf="@+id/editTextExamName" /> -->
+        app:layout_constraintTop_toBottomOf="@+id/editTextExamName" />
 
     <TextView
         android:id="@+id/textView6"
