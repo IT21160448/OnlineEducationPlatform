@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395876210110",
+    "project_id": "knowledgehub-d90ef",
+    "storage_bucket": "knowledgehub-d90ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395876210110:android:91c390ff904f4b6b3f15ef",
+        "android_client_info": {
+          "package_name": "com.example.knowledgehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395876210110-73agq14dm6p57b4atusnkfi84gjrmu5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtg-_FIBbgKPvnm_nB5YHo3otCx3bkj4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395876210110-73agq14dm6p57b4atusnkfi84gjrmu5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
