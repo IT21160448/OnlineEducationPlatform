@@ -15,7 +15,7 @@ import com.google.firebase.database.FirebaseDatabase
 
 class addQuizPart1 : AppCompatActivity() {
 
-    // declare your EditText fields
+     declare your EditText fields
     private lateinit var etExamName:EditText
     private lateinit var etSubjectName:EditText
     private lateinit var etGarde:EditText
