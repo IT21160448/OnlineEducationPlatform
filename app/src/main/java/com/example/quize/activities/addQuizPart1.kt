@@ -16,12 +16,12 @@ import com.google.firebase.database.FirebaseDatabase
 class addQuizPart1 : AppCompatActivity() {
 
      declare your EditText fields
-   // private lateinit var etExamName:EditText
+    private lateinit var etExamName:EditText
     private lateinit var etSubjectName:EditText
     private lateinit var etGarde:EditText
     private lateinit var etExamType:EditText
     private lateinit var etExamDate:EditText
-    private lateinit var etNoOfQuestion:EditText
+   // private lateinit var etNoOfQuestion:EditText
 
     private lateinit var  dbRef:DatabaseReference
 
