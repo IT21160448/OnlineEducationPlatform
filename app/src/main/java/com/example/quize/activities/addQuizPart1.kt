@@ -42,7 +42,7 @@ class addQuizPart1 : AppCompatActivity() {
             // create a Calendar instance and set it to the current date
             val cal = Calendar.getInstance()
 
-             create a DatePickerDialog and set the current date as the default date
+            // create a DatePickerDialog and set the current date as the default date
             val datePicker = DatePickerDialog(this, { _, year, month, dayOfMonth ->
                 // set the selected date in the etExamDate EditText field
                 etExamDate.setText("$dayOfMonth/${month + 1}/$year")
